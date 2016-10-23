@@ -2,7 +2,7 @@ Written by Marcelo Boareto (marceloboareto at gmail.com)
 
 ### Source code of the analysis of the following manuscript:
 
-#### Operating Principles of Notch-Delta-Jagged module of cell-cell communication. Mohit Kumar Jolly, Marcelo Boareto, Mingyang Lu, José N. Onuchic, Cecilia Clementi, and Eshel Ben-Jacob
+#### Operating Principles of Notch-Delta-Jagged module of cell-cell communication. Mohit Kumar Jolly, Marcelo Boareto, Mingyang Lu, José N. Onuchic, Cecilia Clementi, and Eshel Ben-Jacob http://iopscience.iop.org/1367-2630/17/5/055021
 
 The codes were written in Python, using the PyDSTool (http://www.ni.gsu.edu/~rclewley/PyDSTool/FrontPage.html). 
 The available codes were written using the ipython notebook (http://ipython.org/notebook.html)
